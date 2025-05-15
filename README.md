@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HealthCare Documentation
 
 HealthCare est une application destinée au grand public. Elle a pour but de permettre la prédiction d’attaques cardio-vasculaires, la surveillance des signes vitaux, d’alerter l’entourage en cas d’attaque cardiaque ou irrégularité cardiaque et aussi de signaler à l'utilisateur une possible maladie cardiaque.
@@ -187,3 +188,6 @@ Performance du modèle :
 <img  width="200" src="">
 
 
+=======
+# Healthcare
+>>>>>>> f2d903a7ac2249174a15ba9bce462d93dbc0e515
