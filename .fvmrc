@@ -1,0 +1,4 @@
+{
+  "flutter": "2.0.6",
+  "dart.flutterSdkPath": ".fvm/flutter_sdk"
+}
